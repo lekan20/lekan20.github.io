@@ -1,14 +1,11 @@
 ---
 layout: post
-title:      "Building My NBA Standings CLI Data Gem"
-date:       2018-02-03 14:57:45 +0000
+title:      "Building my NBA Stat CLI gem"
+date:       2018-02-03 09:57:46 -0500
 permalink:  building_my_nba_standings_cli_data_gem
 ---
 
 
-
-
-Main point: I didn’t know how I would build this
 
 I knew I’ve learned a lot of new skills in the past few months but I didn’t know how I would build this. The thought of finally making it to the final project, not knowing how to build it, getting stuck on this, and never finishing it crossed my mind. I was soooo excited to finally get here but my past experiences with programming did not go so well no matter how excited I felt about the project. Even though I was scared I knew going through this lab is an opportunity to see how I’m staking up, what I know, and what I need to learn more about. I broke my next moves into a few steps:
 
@@ -27,4 +24,4 @@ Anytime I had a question that the video didn’t answer or a test that didn’t 
 
 When I finally got to building my objects and scraping data from ESPN.com, I used prys to see why my code wasn’t working and figure out what I needed to change to get the result I wanted. 
 
-And to my amazement I BUILT IT!!! I got it to work and it feels AMAZING. I feel like I hit the winning shot at the buzzer, like I ate the most delicious meal at Peter Lugar’s. I can’t believe it worked out and I’m really happy it did. 
+And to my amazement I BUILT IT!!! I got it to work and it feels AMAZING. I feel like I hit the winning shot at the buzzer, like I ate the most delicious meal at Peter Lugar’s. I can’t believe it worked out and I’m really happy it did.
