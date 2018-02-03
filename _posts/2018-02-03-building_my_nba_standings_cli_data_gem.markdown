@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Building my NBA Stat CLI gem"
+title:      "Building my NBA Stats CLI gem"
 date:       2018-02-03 09:57:46 -0500
 permalink:  building_my_nba_standings_cli_data_gem
 ---
