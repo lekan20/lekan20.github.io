@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Learn Co Blog
 header-img: img/home-bg.png
 email: lekan.nicholson@gmail.com
 copyright_name: lekan20
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learn Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: kanle20
 github_username:  lekan20
