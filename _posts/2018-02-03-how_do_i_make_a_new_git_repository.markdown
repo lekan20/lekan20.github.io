@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How do I make a new git repository"
-date:       2018-02-03 18:20:17 +0000
+date:       2018-02-03 13:20:18 -0500
 permalink:  how_do_i_make_a_new_git_repository
 ---
 
@@ -51,7 +51,15 @@ Someone ended up coming up in the slack channel to give me suggestions and a lea
 
 Turns out I had to move it (mv NBA-Stat-CLI-Gem code) and once we moved it there I could see it.
 
+
+**Step 6** Push changes to git hub
+
+After all I'm doing and the commits I've made, I don't see anything on Github. I realized I need to push my code to github off of my computer. I used the article in **Step 5** to show me how (git push -u origin master).
+___________________________________________________________________________________________________________
+
+
 Man All of this took two hours to find this repo and I got pretty stuck but I know I gotta keep trying stuff no matter how frustrated I get. These are all learning opportunities.
 
 It always feels like 1 step forward 2 steps back but I'm starting to learn that's all progress. Doesn't matter if I'm going forward or backward I'm still learning something that'll help me as I keep going. 
+
 
