@@ -55,7 +55,6 @@ Turns out I had to move it (mv NBA-Stat-CLI-Gem code) and once we moved it there
 **Step 6** Push changes to git hub
 
 After all I'm doing and the commits I've made, I don't see anything on Github. I realized I need to push my code to github off of my computer. I used the article in **Step 5** to show me how (git push -u origin master).
-___________________________________________________________________________________________________________
 
 
 Man All of this took two hours to find this repo and I got pretty stuck but I know I gotta keep trying stuff no matter how frustrated I get. These are all learning opportunities.
